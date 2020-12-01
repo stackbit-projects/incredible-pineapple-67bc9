@@ -66,6 +66,7 @@ sections:
     title: What's New
     show_recent: true
     recent_count: 3
+    author: _data/team/person-kx0gk17lx.json
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
